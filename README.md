@@ -35,8 +35,3 @@ to deduce something.  As they satisfy those wants, they fall dormant.  Order is 
 if a contribution can be made.  The human solver does this, trying separate strategies, usually considering
 the easier ones first.
 
-
-
-could be followed in pen.
-
-
